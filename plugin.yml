@@ -1,0 +1,9 @@
+main: Gun\Main
+version: 0.1
+api: 2.0.0
+name: GunShop
+author: BEcraft GamePlay
+commands:
+ store:
+  description: gun store commands
+  usage: /store list
