@@ -1,6 +1,6 @@
 main: Gun\Main
 version: 0.1
-api: 2.0.0
+api: 3.1.0
 name: GunShop
 author: BEcraft GamePlay
 commands:
